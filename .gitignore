@@ -1,1 +1,6 @@
-﻿*.csproj
+﻿﻿UserSettings
+Temp
+Library
+Logs
+obj
+.vs
